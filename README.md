@@ -6,3 +6,4 @@ Simply hit F5 or Run icon on Visual studio tool bar.
 
 #Future Improvements 
 1. Proper Authentication Can be implemented.
+2. JWT Authentication can be implemented using Custom Middleware
