@@ -7,3 +7,4 @@ Simply hit F5 or Run icon on Visual studio tool bar.
 #Future Improvements 
 1. Proper Authentication Can be implemented.
 2. JWT Authentication can be implemented using Custom Middleware
+3. Custom validation can be implemented to validate from database or any custom rule.
